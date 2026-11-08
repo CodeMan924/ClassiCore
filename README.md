@@ -1,2 +1,3 @@
 # ClassiCore
-ClassiCore is an alternative which works like ClassiCube. It uses similar coding language to ClassiCube to function. Though it is not affiliated with the ClassiCube team nor Mojang studios. 
+<img width="2752" height="1536" alt="Gemini_Generated_Image_hjj7m4hjj7m4hjj7" src="https://github.com/user-attachments/assets/587d0d5a-d9de-4bee-84c4-b0177698250e" />
+ClassiCore is an alternative which works like ClassiCube. It uses similar coding language to ClassiCube to function. Though it is not affiliated with the ClassiCube team nor Mojang studios. ClassiCore is Open-source and free to use! 
