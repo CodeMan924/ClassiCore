@@ -1,3 +1,3 @@
-# ClassiCore
+<img width="1917" height="990" alt="image" src="https://github.com/user-attachments/assets/320285ee-e4e9-4dbf-b913-2a6236f6936e" /># ClassiCore
 <img width="2752" height="1536" alt="Gemini_Generated_Image_hjj7m4hjj7m4hjj7" src="https://github.com/user-attachments/assets/587d0d5a-d9de-4bee-84c4-b0177698250e" />
-ClassiCore is an alternative which works like ClassiCube. It uses similar coding language to ClassiCube to function. Though it is not affiliated with the ClassiCube team nor Mojang studios. ClassiCore is Open-source and free to use! Check more information at our discord server https://discord.gg/rxN6yzsTSX. Check out the site also http://classicore-github-official.infinityfree.io/ (notice it may be down. 404 errors)
+ClassiCore is an alternative which works like ClassiCube. It uses similar coding language to ClassiCube to function. Though it is not affiliated with the ClassiCube team nor Mojang studios. ClassiCore is Open-source and free to use! Check more information at our discord server https://discord.gg/rxN6yzsTSX or the website (https://sites.google.com/view/classicore-github/) . 
